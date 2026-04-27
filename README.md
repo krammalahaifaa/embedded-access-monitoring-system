@@ -37,7 +37,6 @@ The goal was to design an embedded system for secure access control and environm
 * IoT communication
 
 
-
 ## System Images
 
 ### Architecture
