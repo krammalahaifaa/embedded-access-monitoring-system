@@ -36,7 +36,9 @@ The goal was to design an embedded system for secure access control and environm
 * ESP32 programming
 * IoT communication
 
-* ## System Images
+
+
+## System Images
 
 ### Architecture
 ![Architecture](docs/project.png)
