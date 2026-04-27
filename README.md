@@ -35,5 +35,13 @@ The goal was to design an embedded system for secure access control and environm
 * Embedded C/C++
 * ESP32 programming
 * IoT communication
+
+* ## System Images
+
+### Architecture
+![Architecture](docs/project.png)
+
+### Dashboard
+![Dashboard](docs/dashboard.png)
 * Embedded protocols
 * Remote monitoring
