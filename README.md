@@ -41,7 +41,7 @@ The goal was to design an embedded system for secure access control and environm
 
 ## System Images
 
-### Architecture
+### Prototype
 ![Architecture](docs/project.png)
 
 ### Dashboard
